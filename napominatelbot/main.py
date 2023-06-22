@@ -5,7 +5,7 @@ import schedule
 import time
 from telebot import types
 
-bot = telebot.TeleBot('5722038528:AAGUvT08KENG8Lvbbm3Y4dmzGGWqxIB-81w')
+bot = telebot.TeleBot('Мой Бот')
 
 my_data = ''
 
